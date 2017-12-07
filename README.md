@@ -1,7 +1,7 @@
 # Music-Library-app
+Simple Music Library app that will display your albums and their relevant information.
 
 # Design Patterns
-Simple Music Library app that will display your albums and their relevant information.
 The app utilises the most common Cocoa design patterns :
 
 * **Creational:** Singleton.
